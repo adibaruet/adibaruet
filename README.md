@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adiba</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer :< </h3>
 
 - 🔭 I’m currently working on [Medico- A medical service website](https://github.com/urose02/Medico-A-Medical-based-website)
 
