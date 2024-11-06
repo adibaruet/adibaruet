@@ -6,7 +6,7 @@
 
 <h2 align="center">Hi 👋, I'm Adiba</h2>
 
-- 🔭 I’m currently working on [Medico- A medical service website](https://github.com/adibaruet/Medico-A-Medical-based-website)
+- 🔭 I’m currently working on [User interactive chatbot](https://github.com/adibaruet/User-interactive-Chatbot)
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
