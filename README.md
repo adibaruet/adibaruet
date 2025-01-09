@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adibaruet](https://github.com/adibaruet)
+- 👌Fun Fact:Passionate about Planting,Decor,Yoga and Exercise . 
 
 - 📫 How to reach me **adibaruet@gmail.com**
 
