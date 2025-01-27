@@ -32,15 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&count_private=true&hide=prs&theme=transparent" />
   </a>
 </div>
-
-
 ---
-### Contribution Graph
-<div align="center">
-  <a href="https://github.com/adibaruet">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adibaruet&bg_color=00000000&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
-  </a>
-</div>
 
 ---
 <h3 align="left">Connect with me:</h3>
