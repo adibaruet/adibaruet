@@ -8,10 +8,9 @@
 
 - 🔭 I’m currently working on [User interactive chatbot](https://github.com/adibaruet/User-interactive-Chatbot)
 
-- 🌱 I’m currently learning **Machine Learning and AI**
-
+- 🚀 Embarking on an exciting journey into **Backend Development**, with a focus on crafting robust applications using **Go**, leveraging the power of **Docker** for containerization, and mastering **Concurrency** to build efficient, scalable systems.
 - 👨‍💻 All of my projects are available at [https://github.com/adibaruet](https://github.com/adibaruet)
-- 👌Fun Fact: Passionate about Planting, Decor, Yoga and Exercise.
+- 👌Fun Fact: Passionate about **Planting, Journaling, Decor, Yoga and Exercise.**
 
 - 📫 How to reach me **adibaruet@gmail.com**
 
