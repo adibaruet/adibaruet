@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/adibaruet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&theme=radical&hide=php" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&theme=transparent" alt="Top Languages" />
   </a>
 </div>
 
