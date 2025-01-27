@@ -19,7 +19,12 @@
 
 ### Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&hide=html&theme=radical)](https://github.com/adibaruet)
+<div align="center">
+  <a href="https://github.com/adibaruet">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
 
 ---
 
