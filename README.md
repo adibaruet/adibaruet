@@ -27,7 +27,12 @@
 
 
 ---
-https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&count_private=true&hide=prs&theme=transparent
+<div align="center">
+  <a href="https://github.com/adibaruet">
+    <img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&count_private=true&hide=prs&theme=transparent" />
+  </a>
+</div>
+
 
 ---
 <h3 align="left">Connect with me:</h3>
