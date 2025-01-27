@@ -33,7 +33,11 @@
   </a>
 </div>
 ---
-[![Adiba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&theme=github-compact)](https://github.com/adibaruet/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/adibaruet">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&theme=github-compact)](https://github.com/adibaruet/github-readme-activity-graph" />
+  </a>
+</div>
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
