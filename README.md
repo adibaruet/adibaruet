@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/adibaruet">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&theme=github-compact)](https://github.com/adibaruet/github-readme-activity-graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&theme=transparent)](https://github.com/adibaruet/github-readme-activity-graph" />
   </a>
 </div>
 
