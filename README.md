@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&count_private=true&hide=prs&theme=transparent" />
   </a>
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/adibaruet">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&bg_color=00000000&color=1E90FF&line=87CEEB&point=00BFFF&area_color=87CEFA&area=true" />
