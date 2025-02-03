@@ -6,7 +6,6 @@
 
 <h2 align="center">Hi 👋, I'm Adiba</h2>
 
-- 🔭 I’m currently working on [User interactive chatbot](https://github.com/adibaruet/User-interactive-Chatbot)
 
 - 📚 Learning: Advanced backend technologies & scalable architectures.
 - 👨‍💻 All of my projects are available at [https://github.com/adibaruet](https://github.com/adibaruet)
