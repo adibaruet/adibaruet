@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,postgresql,docker,git" />
+    <img src="https://skillicons.dev/icons?i=python,go,postgresql,docker,git" />
   </a>
 </p>
 
