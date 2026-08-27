@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-adibaruet-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/adiba_ruet/"><img src="https://img.shields.io/badge/LeetCode-adiba__ruet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
@@ -55,13 +56,19 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adiba_ruet?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
   <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/adiba_ruet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adibaruet&color=blueviolet&style=flat" alt="Profile views" />
-</p>
