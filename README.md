@@ -26,6 +26,12 @@
 
 <br/>
 
+<div align="center">
+
+> *"Curiosity is the compass; code is the vehicle."*
+
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🎓 About Me
@@ -101,10 +107,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibaruet&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-trophy.vercel.app/?username=adibaruet&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 
 <br/>
 
