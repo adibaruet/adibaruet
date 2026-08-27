@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I%27m%20Adiba%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Electrical%20%26%20Computer%20Engineer%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=18" width="100%" alt="Header banner"/>
+# Hi, I'm Adiba 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Electrical+%26+Computer+Engineering+%40+RUET;Building+with+Go%2C+Python%2C+React%2C+Next.js;Exploring+Vision-Language+Models+%26+Deep+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
 
+<sub>Electrical & Computer Engineer · AI/ML Explorer</sub>
+
 <br/>
+
 
 <a href="https://github.com/adibaruet">
   <img src="https://img.shields.io/badge/GitHub-adibaruet-181717?style=for-the-badge&logo=github" />
@@ -125,4 +128,8 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner"/>
+---
+
+<div align="center">
+<sub>Thanks for stopping by ✨</sub>
+</div>
