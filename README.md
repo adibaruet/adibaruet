@@ -4,16 +4,7 @@
 
 <br/>
 
-```
-┌─────────────────────────────────────────────┐
-│  const developer = {                         │
-│    name: "Humaira Tasnim Adiba",             │
-│    role: "Electrical & Computer Engineer",   │
-│    university: "RUET",                       │
-│    focus: ["Vision-Language Models", "AI/ML"]│
-│  };                                          │
-└─────────────────────────────────────────────┘
-```
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Electrical+%26+Computer+Engineering+%40+RUET;Building+with+Go%2C+Python%2C+React%2C+Next.js;Exploring+Vision-Language+Models+%26+Deep+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -39,7 +30,7 @@
 
 <div align="center">
 
-> *"Curiosity is the compass; code is the vehicle."*
+> *"Consistency is the Key."*
 
 </div>
 
