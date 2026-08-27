@@ -30,35 +30,20 @@
 
 ## 🎓 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+- 🎓 B.Sc. student in **Electrical & Computer Engineering** at **RUET**
+- 🔬 Currently researching **Vision-Language Models**
+- 🤖 Exploring AI/ML and efficient deep learning
+- 💻 Building backend systems, databases & scalable architectures
+- 🚀 Interested in intelligent, production-ready applications
+- 🌱 Always learning, always building
 
-```yaml
-name: Humaira Tasnim Adiba
-role: ECE Undergraduate @ RUET
-focus: Vision-Language Models · AI/ML
-currently_exploring:
-  - Efficient deep learning architectures
-  - Backend systems & scalable databases
-  - Production-ready intelligent applications
-philosophy: "Always learning, always building"
-```
+<div align="center">
 
-</td>
-<td width="40%" valign="top">
+| 🧑‍🎓 Name | 🏫 University | 🎯 Focus | 🛠️ Stack | 📫 Email |
+|:---:|:---:|:---:|:---:|:---:|
+| Humaira Tasnim Adiba | RUET | VLMs · AI/ML | Go · Python · React | adibaruet@gmail.com |
 
-| | |
-|---|---|
-| 🧑‍🎓 **Name** | Humaira Tasnim Adiba |
-| 🏫 **University** | RUET |
-| 🎯 **Focus** | VLMs · AI/ML |
-| 🛠️ **Stack** | Go · Python · React |
-| 📫 **Email** | adibaruet@gmail.com |
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
