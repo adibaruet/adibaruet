@@ -1,115 +1,125 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:203A43&height=200&section=header&text=Hi%20there,%20I'm%20Adiba%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:00ff9d,100:0d1117&height=180&section=header&text=whoami:%20adiba&fontSize=38&fontColor=00ff9d&animation=twinkling&fontAlignY=42&desc=root@ruet:~$%20echo%20%22building%20the%20future%22&descAlignY=65&descSize=16&descColor=58a6ff" />
 
-<br/>
+</div>
 
+<div align="center">
 
+```bash
+> user.init()
+> {
+>   name        : "Humaira Tasnim Adiba",
+>   role        : "ECE Undergrad @ RUET",
+>   focus       : "Vision-Language Models · Deep Learning",
+>   status      : "compiling knowledge... [########--] 80%"
+> }
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Electrical+%26+Computer+Engineering+%40+RUET;Building+with+Go%2C+Python%2C+React%2C+Next.js;Exploring+Vision-Language+Models+%26+Deep+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
+</div>
 
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<a href="https://github.com/adibaruet">
-  <img src="https://img.shields.io/badge/GitHub-adibaruet-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:adibaruet@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adibaruet%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/adiba_ruet/">
-  <img src="https://img.shields.io/badge/LeetCode-adiba__ruet-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adibaruet&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 </div>
 
 <br/>
 
 <div align="center">
 
-> *"Consistency is the Key."*
+[![GitHub](https://img.shields.io/badge/GitHub-adibaruet-00ff9d?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117)](https://github.com/adibaruet)
+[![Gmail](https://img.shields.io/badge/Email-adibaruet%40gmail.com-00ff9d?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:adibaruet@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-adiba__ruet-00ff9d?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=0d1117)](https://leetcode.com/u/adiba_ruet/)
+
+<img src="https://komarev.com/ghpvc/?username=adibaruet&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=00ff9d" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
 
-## 🎓 About Me
+## `> cat about.md`
 
-- 🎓 B.Sc. student in **Electrical & Computer Engineering** at **RUET**
-- 🔬 Currently researching **Vision-Language Models**
-- 🤖 Exploring AI/ML and efficient deep learning
-- 💻 Building backend systems, databases & scalable architectures
-- 🚀 Interested in intelligent, production-ready applications
-- 🌱 Always learning, always building
+```yaml
+education:  B.Sc. Electrical & Computer Engineering, RUET
+research:   Vision-Language Models, efficient deep learning
+building:   backend systems, databases, scalable architectures
+currently:  shipping intelligent, production-ready applications
+mindset:    "consistency is the key"
+```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
 
-## 🛠️ Tech Stack
+## `> ls tech_stack/`
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=go,python,js,react,nextjs,pytorch,postgres,mysql,git,github&theme=dark" />
-
 </div>
-
-<br/>
 
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
-**🧠 Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-**🎨 Frontend & ML Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**⚡ languages**
+```diff
++ Go
++ Python
++ JavaScript
+```
 
 </td>
 <td valign="top" width="33%">
 
-**🗄️ Data & Tools**
+**🧬 frameworks / ml**
+```diff
++ React
++ Next.js
++ PyTorch
+```
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</td>
+<td valign="top" width="33%">
+
+**🗃 data / tools**
+```diff
++ PostgreSQL
++ MySQL
++ Git
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<br/>
 
-
-## 🔗 Connect with Me
+## `> ./run_stats.sh`
 
 <div align="center">
 
-<a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/adiba_ruet/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adibaruet&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" width="50%" />
 
 </div>
 
+<br/>
 
+## `> git log --graph`
 
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adibaruet&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9d&line=00ff9d&point=58a6ff" width="100%" />
+</div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,50:2E9EF7,100:0F2027&height=100&section=footer" />
-
 <div align="center">
-<sub>✨ Thanks for stopping by — feel free to explore my repos! ✨</sub>
+
+```bash
+root@ruet:~$ echo "thanks for stopping by — feel free to explore my repos"
+```
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:00ff9d,100:0d1117&height=100&section=footer" />
+
 </div>
