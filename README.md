@@ -26,14 +26,14 @@
 
 <br/>
 
-## 🧠 About Me
+##  About Me
 
 - 🎓 B.Sc. student in **Electrical & Computer Engineering** at **RUET**
 - 🔬 Currently researching **Vision-Language Models**
 - 🤖 Exploring AI/ML and efficient deep learning
 - 💻 Building backend systems, databases & scalable architectures
 - 🚀 Interested in intelligent, production-ready applications
-- 🌱 Always learning, always building
+- 🌱 Learning and Building.
 
 <div align="center">
 <em>"Consistency is the key."</em>
