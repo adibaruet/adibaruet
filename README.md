@@ -1,11 +1,12 @@
 <div align="center">
 
-# 🌿 Hello, I'm Adiba
+# Hello, I'm Adiba
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=1B8A6B&center=true&vCenter=true&width=600&height=40&lines=Electrical+%26+Computer+Engineering+%40+RUET;Exploring+Vision-Language+Models;Building+with+Go%2C+Python%2C+React+%26+Next.js;Learning+and+Building" alt="Typing SVG" />
 
 <br/>
 
+<a href="https://adibaruet.github.io/Portfolio-of-ADIBA/"><img src="https://img.shields.io/badge/Portfolio-adibaruet.github.io-1B8A6B?style=flat-square&logo=githubpages&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
 <a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-adibaruet-1B8A6B?style=flat-square&logo=github&logoColor=white&labelColor=0B3D2E" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/humaira-tasnim-adiba-0025a1232"><img src="https://img.shields.io/badge/LinkedIn-Humaira_Tasnim_Adiba-1B8A6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn" /></a>
 <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet@gmail.com-1B8A6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email" /></a>
@@ -26,6 +27,7 @@
 - 🤖 Exploring AI/ML and efficient deep learning
 - 💻 Building backend systems, databases & scalable architectures
 - 🚀 Interested in intelligent, production-ready applications
+- 🌐 My portfolio: [adibaruet.github.io/Portfolio-of-ADIBA](https://adibaruet.github.io/Portfolio-of-ADIBA/)
 - 🌱 Learning and Building
 
 ---
@@ -86,6 +88,7 @@
 
 <div align="center">
 
+<a href="https://adibaruet.github.io/Portfolio-of-ADIBA/"><img src="https://img.shields.io/badge/Portfolio-adibaruet.github.io-1B8A6B?style=flat-square&logo=githubpages&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
 <a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-adibaruet-1B8A6B?style=flat-square&logo=github&logoColor=white&labelColor=0B3D2E" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/humaira-tasnim-adiba-0025a1232"><img src="https://img.shields.io/badge/LinkedIn-Humaira_Tasnim_Adiba-1B8A6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn" /></a>
 <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet@gmail.com-1B8A6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email" /></a>
