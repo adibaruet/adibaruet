@@ -5,13 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=4C8BF5&center=true&vCenter=true&width=600&lines=Electrical+%26+Computer+Engineering+%40+RUET;Exploring+Vision-Language+Models;Building+with+Go%2C+Python%2C+React+%26+Next.js;Learning+and+Building" alt="Typing SVG" />
 
 </div>
-
-<br/>
-
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
+<em>"Consistency is the key."</em>
 </div>
-
 <br/>
 
 <div align="center">
@@ -35,9 +31,7 @@
 - 🚀 Interested in intelligent, production-ready applications
 - 🌱 Learning and Building.
 
-<div align="center">
-<em>"Consistency is the key."</em>
-</div>
+
 
 <br/>
 
