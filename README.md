@@ -17,7 +17,7 @@
 </div>
 
 <br/>
-
+<div align="left">
 ##  About Me
 
 - 🎓 B.Sc. student in **Electrical & Computer Engineering** at **RUET**
@@ -26,7 +26,7 @@
 - 💻 Building backend systems, databases & scalable architectures
 - 🚀 Interested in intelligent, production-ready applications
 - 🌱 Learning and Building.
-
+</div>
 
 
 <br/>
