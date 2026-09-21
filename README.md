@@ -6,7 +6,7 @@
 
 
 
-<div align="center">
+<div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-adibaruet-0A1929?style=for-the-badge&logo=github&logoColor=4C8BF5)](https://github.com/adibaruet)
 [![Gmail](https://img.shields.io/badge/Email-adibaruet%40gmail.com-0A1929?style=for-the-badge&logo=gmail&logoColor=4C8BF5)](mailto:adibaruet@gmail.com)
