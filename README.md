@@ -1,6 +1,6 @@
 <div align="center">
 
-# Adiba
+# 💻 Hello, I'm Adiba
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=4C8BF5&center=true&vCenter=true&width=600&height=40&lines=Electrical+%26+Computer+Engineering+%40+RUET;Exploring+Vision-Language+Models;Building+with+Go%2C+Python%2C+React+%26+Next.js;Learning+and+Building" alt="Typing SVG" />
 
