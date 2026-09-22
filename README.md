@@ -6,8 +6,7 @@
 
 <br/>
 
-<a href="https://adibaruet.github.io/Portfolio-of-ADIBA/"><img src="https://portfolio-of-adiba-e87tluu0s-adiba-s-projects2.vercel.app/-1B8A6B?style=flat-square&logo=githubpages&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
-
+<a href="https://portfolio-of-adiba-e87tluu0s-adiba-s-projects2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1B8A6B?style=flat-square&logo=vercel&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/humaira-tasnim-adiba-0025a1232"><img src="https://img.shields.io/badge/LinkedIn-Humaira_Tasnim_Adiba-1B8A6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn" /></a>
 <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet@gmail.com-1B8A6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email" /></a>
 <a href="https://leetcode.com/u/adiba_ruet/"><img src="https://img.shields.io/badge/LeetCode-adiba__ruet-1B8A6B?style=flat-square&logo=leetcode&logoColor=white&labelColor=0B3D2E" alt="LeetCode" /></a>
@@ -27,7 +26,7 @@
 - 🤖 Exploring AI/ML and efficient deep learning
 - 💻 Building backend systems, databases & scalable architectures
 - 🚀 Interested in intelligent, production-ready applications
-- 🌐 My portfolio: [adibaruet.github.io/Portfolio-of-ADIBA](https://adibaruet.github.io/Portfolio-of-ADIBA/)
+- 🌐 My portfolio: [portfolio-of-adiba.vercel.app](https://portfolio-of-adiba-e87tluu0s-adiba-s-projects2.vercel.app/)
 - 🌱 Learning and Building
 
 ---
@@ -88,7 +87,7 @@
 
 <div align="center">
 
-<a href="https://adibaruet.github.io/Portfolio-of-ADIBA/"><img src="https://img.shields.io/badge/Portfolio-adibaruet.github.io-1B8A6B?style=flat-square&logo=githubpages&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
+<a href="https://portfolio-of-adiba-e87tluu0s-adiba-s-projects2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1B8A6B?style=flat-square&logo=vercel&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
 <a href="https://github.com/adibaruet"><img src="https://img.shields.io/badge/GitHub-adibaruet-1B8A6B?style=flat-square&logo=github&logoColor=white&labelColor=0B3D2E" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/humaira-tasnim-adiba-0025a1232"><img src="https://img.shields.io/badge/LinkedIn-Humaira_Tasnim_Adiba-1B8A6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn" /></a>
 <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet@gmail.com-1B8A6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email" /></a>
