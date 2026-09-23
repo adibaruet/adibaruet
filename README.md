@@ -26,7 +26,7 @@
 - 🤖 Exploring AI/ML and efficient deep learning
 - 💻 Building backend systems, databases & scalable architectures
 - 🚀 Interested in intelligent, production-ready applications
-- 🌐 My portfolio: [portfolio-of-adiba.vercel.app](https://portfolio-of-adiba-e87tluu0s-adiba-s-projects2.vercel.app/)
+- 🌐 My portfolio: [portfolio-of-adiba.vercel.app](https://portfolio-of-adiba.vercel.app/)
 - 🌱 Learning and Building
 
 ---
