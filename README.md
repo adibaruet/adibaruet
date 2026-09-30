@@ -77,11 +77,18 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B8A6B&icon_color=2FBF8F&text_color=8B949E&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&hide_border=true&bg_color=00000000&title_color=1B8A6B&text_color=8B949E&langs_count=6" height="170" alt="Top languages" />
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibaruet&theme=transparent&hide_border=true&background=00000000&ring=1B8A6B&fire=2FBF8F&currStreakNum=8B949E&currStreakLabel=1B8A6B&sideNums=8B949E&sideLabels=1B8A6B&dates=8B949E" width="80%" alt="GitHub streak" />
 
 </div>
 
 ---
+
+<div align="center">
 
 <sub>🌿 Thanks for stopping by, feel free to explore my repos! 🌿</sub>
 
