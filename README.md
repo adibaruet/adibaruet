@@ -69,8 +69,10 @@ I am an undergraduate student in Electrical & Computer Engineering at RUET. My r
 
 ## GitHub Overview
 
-<img src="https://YOUR-DOMAIN.vercel.app/api?username=adibaruet&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B8A6B&icon_color=2FBF8F&text_color=8B949E&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-<img src="https://YOUR-DOMAIN.vercel.app/api/top-langs/?username=adibaruet&layout=compact&hide_border=true&bg_color=00000000&title_color=1B8A6B&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
+<div align="center">
+
+<img src="./profile-summary-card-output/transparent/3-stats.svg" height="165" alt="GitHub stats" />
+<img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" height="165" alt="Top languages" />
 
 </div>
 
