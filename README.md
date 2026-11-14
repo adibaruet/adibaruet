@@ -1,37 +1,33 @@
 <div align="center">
 
-# Hello, I'm Adiba
+# Humaira Tasnim Adiba
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=1B8A6B&center=true&vCenter=true&width=600&height=40&lines=Electrical+%26+Computer+Engineering+%40+RUET;Exploring+Vision-Language+Models;Building+with+Go%2C+Python%2C+React+%26+Next.js;Learning+and+Building" alt="Typing SVG" />
+**Electrical & Computer Engineering · Rajshahi University of Engineering & Technology (RUET)**
+
+Vision-Language Models Research · Backend & Full-Stack Development
 
 <br/>
 
-<a href="https://portfolio-of-adiba.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-1B8A6B?style=flat-square&logo=vercel&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
+<a href="https://portfolio-of-adiba.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio--of--adiba.vercel.app-1B8A6B?style=flat-square&logo=vercel&logoColor=white&labelColor=0B3D2E" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/humaira-tasnim-adiba-0025a1232"><img src="https://img.shields.io/badge/LinkedIn-Humaira_Tasnim_Adiba-1B8A6B?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B3D2E" alt="LinkedIn" /></a>
 <a href="mailto:adibaruet@gmail.com"><img src="https://img.shields.io/badge/Email-adibaruet@gmail.com-1B8A6B?style=flat-square&logo=gmail&logoColor=white&labelColor=0B3D2E" alt="Email" /></a>
 <a href="https://leetcode.com/u/adiba_ruet/"><img src="https://img.shields.io/badge/LeetCode-adiba__ruet-1B8A6B?style=flat-square&logo=leetcode&logoColor=white&labelColor=0B3D2E" alt="LeetCode" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=adibaruet&label=Profile+Views&color=1B8A6B&labelColor=0B3D2E&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🍃 About Me
+## About
 
-- 🎓 B.Sc. student in **Electrical & Computer Engineering** at **RUET**
-- 🔬 Currently researching **Vision-Language Models**
-- 🤖 Exploring AI/ML and efficient deep learning
-- 💻 Building backend systems, databases & scalable architectures
-- 🚀 Interested in intelligent, production-ready applications
-- 🌐 My portfolio: [portfolio-of-adiba.vercel.app](https://portfolio-of-adiba.vercel.app/)
--  Learning and Building
+I am an undergraduate student in Electrical & Computer Engineering at RUET. My research focuses on vision-language models and efficient deep learning. Alongside research, I build backend systems, design databases, and develop scalable web applications. I am particularly interested in turning machine learning research into reliable, production-ready software.
 
----
+## Focus Areas
 
-## ⚙️ Tech Stack
+- **Research:** Vision-language models, efficient deep learning
+- **Backend Engineering:** API development, database design, scalable system architecture
+- **Web Development:** Full-stack applications with React and Next.js
+
+## Technical Skills
 
 <table align="center">
 <tr>
@@ -59,7 +55,7 @@
 </td>
 <td align="center" width="33%">
 
-<b>Data & Tools</b>
+<b>Databases & Tools</b>
 
 <br/>
 
@@ -71,18 +67,12 @@
 </tr>
 </table>
 
----
-
-## GitHub Activity
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B8A6B&icon_color=2FBF8F&text_color=8B949E&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&hide_border=true&bg_color=00000000&title_color=1B8A6B&text_color=8B949E&langs_count=6" height="170" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adibaruet&theme=transparent&hide_border=true&background=00000000&ring=1B8A6B&fire=2FBF8F&currStreakNum=8B949E&currStreakLabel=1B8A6B&sideNums=8B949E&sideLabels=1B8A6B&dates=8B949E" width="80%" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=adibaruet&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B8A6B&icon_color=2FBF8F&text_color=8B949E&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaruet&layout=compact&hide_border=true&bg_color=00000000&title_color=1B8A6B&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
 
 </div>
 
@@ -90,6 +80,6 @@
 
 <div align="center">
 
-<sub>🌿 Thanks for stopping by, feel free to explore my repos! 🌿</sub>
+<sub>For collaboration or inquiries, please reach out via email or LinkedIn.</sub>
 
 </div>
