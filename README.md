@@ -19,8 +19,7 @@ Vision-Language Models Research · Backend & Full-Stack Development
 
 ## About
 
-I am an undergraduate student in Electrical & Computer Engineering at RUET. My research focuses on vision-language models and efficient deep learning. Alongside research, I build backend systems, design databases, and develop scalable web applications. I am particularly interested in turning machine learning research into reliable, production-ready software.
-
+I am a recent graduate in Electrical & Computer Engineering from RUET. My research focuses on vision-language models and efficient deep learning. Alongside research, I build backend systems, design databases, and develop scalable web applications. I am particularly interested in turning machine learning research into reliable, production-ready software.
 ## Focus Areas
 
 - **Research:** Vision-language models, efficient deep learning
